@@ -1,4 +1,5 @@
-
+![](![image](https://github.com/chandraPrakash-tripathi/chandraPrakash-tripathi/assets/126514044/1acd21c7-18d7-4fab-b43b-481f19fbb524)
+)
 
 <h1 align="center">👋 Hello, I'm <a href="https://www.linkedin.com/in/chandraprakash-tripathi" target="_blank"> Chandra Prakash Tripathi </a> </h1>
 
