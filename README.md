@@ -39,7 +39,7 @@ I believe in implementing the knowledge which I have. Projects play a major role
 
 Let's have a look at some of my noteworthy projects:
 
-1. [Sign Language Mediapipe]: Demonstrating my major project which is currently in development.
+1. [Sign Language Mediapipe](https://github.com/chandraPrakash-tripathi/Sign-language-mediapipe): Demonstrating my major project which is currently in development.
 2. [Smart Walking Assistance]: Demonstrating my versatility in IoT.
 3. [E-Cell Club Website](https://ecellramaiah.in): Demonstrating my versatility in web technologies.
 4. [Quatlas Aeromodling Website](https://quatlas.vercel.app): A website for the Quatlas Aeromodelling Club at MSRIT.
@@ -54,35 +54,35 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chandrapr
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=namratha-vj&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
+![Stats](https://github-readme-stats.vercel.app/api?username=chandraPrakash-tripathi&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=namratha-vj&theme=dracula&hide_border=true)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=chandraPrakash-tripathi&theme=dracula&hide_border=true)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namratha-vj&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandraPrakash-tripathi&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
 ## 🏆 GitHub Trophies of Namratha
 
-![](https://github-profile-trophy.vercel.app/?username=namratha-vj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=chandraPrakash-tripathi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ## Contribution Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=namratha-vj&bg_color=282a35&color=ffffff&line=ec7696&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chandraPrakash-tripathi&bg_color=282a35&color=ffffff&line=ec7696&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Snake animation](https://github.com/namratha-vj/namratha-vj/blob/snake/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/namratha-vj/chandraPrakash-tripathi/blob/snake/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=namratha-vj&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=chandraPrakash-tripathi&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
 </div>
 
 ## Find me Here
 
 <div align="center">
-<a  href="https://www.linkedin.com/in/namratha-vj" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:namratha.jakati@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://www.linkedin.com/in/chandraprakash-tripathi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:Tripathi.cp07@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/namratha-vj.svg?style=social&label=Follow)](https://github.com/namratha-vj?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/chandraPrakash-tripathi.svg?style=social&label=Follow)](https://github.com/chandraPrakash-tripathi?tab=followers)
