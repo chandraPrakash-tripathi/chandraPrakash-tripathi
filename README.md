@@ -1,23 +1,23 @@
 ![](https://github.com/githubhosting/ds/assets/71520844/f8593e42-6a5a-4dc3-93f1-52df0b8700e9)
 
-<h1 align="center">👋 Heyy, I'm <a href="https://www.linkedin.com/in/namratha-vj" target="_blank"> Namratha Jakati </a> </h1>
+<h1 align="center">👋 Hello, I'm <a href="https://www.linkedin.com/in/chandraprakash-tripathi" target="_blank"> Chandra Prakash Tripathi </a> </h1>
 
 A bit about myself,
 
-🎓 Currently in my third year at **M.S. Ramaiah Institute of Technology**, I'm honing my skills in Computer Science with a specialization in AI & ML.
+🎓 Currently in my fourth year at **M.S. Ramaiah Institute of Technology**, I'm honing my skills in Electronics and Telecommunications Engineering.
 
-🔍 My current fascination lies in **Machine Learning**. I'm actively experimenting with **Large Language Models (LLMs)** and am passionate about diving deep into the intricate world of AI and ML.
+🔍 My current fascination lies in **Machine Learning**. I'm actively experimenting with **Neural Networks** and am passionate about diving deep into the intricate world of AI and ML.
 
 🚀 My goal? To explore and contribute to a multitude of AI and ML fields.
 
-<h3 align="center">Machine Learning Intern at Spritle Software | Python Developer | Enthusiastic about the intersections of technology | Mentor and Educator for Underprivileged Students.</h3>
+<h3 align="center">Samsung Prism Intern | Python Developer | Enthusiastic about the intersections of technology | Mentor and Educator for Underprivileged Students.</h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=namratha-vj&label=Profile%20views&color=6805D3&style=flat" alt="namratha-vj" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=chandraPrakash-tripathi&label=Profile%20views&color=6805D3&style=flat" alt="chandraPrakash-tripathi" /> </p></h3>
 
 ## Technical Skills 🛠
 
 - Programming Languages: Python, C++
-- Web Development: HTML5, CSS3, JavaScript, ReactJS
+- Web Development: HTML5, CSS3, JavaScript, NodeJS
 - Design Tools: Canva
 - Version Control: Git
 - IDE: Visual Studio Code, PyCharm
@@ -39,14 +39,16 @@ I believe in implementing the knowledge which I have. Projects play a major role
 
 Let's have a look at some of my noteworthy projects:
 
-1. [AI Meal Planner](https://ai-meal-planner.streamlit.app): This project is a meal planning app that generates personalized meal plans based on a user's caloric needs and Personal Information. It utilizes natural language processing to generate creative meal ideas using ingredients selected by the greedy algorithm.
-2. [E-Cell Club Website](https://ecellramaiah.in): Demonstrating my versatility in web technologies.
-3. [Quatlas Aeromodling Website](https://quatlas.vercel.app): A website for the Quatlas Aeromodelling Club at MSRIT.
-4. [CodeInsight AI](https://codeinsightai.streamlit.app): A code analysis tool that uses LLM to generate documentation and explinations for code from any GitHub repository.
+1. [Sign Language Mediapipe]: Demonstrating my major project which is currently in development.
+2. [Smart Walking Assistance]: Demonstrating my versatility in IoT.
+3. [E-Cell Club Website](https://ecellramaiah.in): Demonstrating my versatility in web technologies.
+4. [Quatlas Aeromodling Website](https://quatlas.vercel.app): A website for the Quatlas Aeromodelling Club at MSRIT.
+repository.
+
 
 ## Let's Connect
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/namratha-vj).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chandraprakash-tripathi).
 
 <div align="center">
 
