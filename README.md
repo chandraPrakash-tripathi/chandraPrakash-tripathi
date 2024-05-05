@@ -1,4 +1,4 @@
-
+![](https://github.com/chandraPrakash-tripathi/chandraPrakash-tripathi/assets/126514044/2db2d69d-b1ec-481d-8c89-622cdb199082)
 
 
 <h1 align="center">👋 Hello, I'm <a href="https://www.linkedin.com/in/chandraprakash-tripathi" target="_blank"> Chandra Prakash Tripathi </a> </h1>
