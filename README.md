@@ -63,7 +63,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chandrapr
 
 </div>
 
-## 🏆 GitHub Trophies of Namratha
+## 🏆 GitHub Trophies of Chandra Prakash Tripathi
 
 ![](https://github-profile-trophy.vercel.app/?username=chandraPrakash-tripathi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
